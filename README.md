@@ -1,5 +1,5 @@
 Hola! 👋
 
-Esto es una compilación de  ejercicios realizados durante curso de Launch X. 😃  
+Esto son las katas que se realizaron durante el onborading de LaunchX. 😃  
 
 
